@@ -83,6 +83,6 @@ Al ingresar un año (ej. 1600), el sistema ejecuta una consulta JPQL compleja pa
 
 ## 👤 Autor
 
-Desarrollado por Alan Salazar como parte de la formación en desarrollo Backend Java para Alura Latam y Oracle G9.
+Desarrollado por [Alan Salazar] como parte de la formación en desarrollo Backend Java para Alura Latam y Oracle G9.
 
 ---
